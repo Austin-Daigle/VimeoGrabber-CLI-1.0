@@ -1,4 +1,4 @@
-# VimeoGrab
+# VimeoGrab (Command Line Interface - v.1.0)
 
 A Python utility for downloading Vimeo videos, including private and password-protected ones, using just a URL.
 
